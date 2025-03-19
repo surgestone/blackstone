@@ -1,0 +1,7 @@
+Git adalah sistem kontrol versi (version control system, VCS) yang digunakan untuk melacak perubahan pada kode atau file dalam sebuah proyek. Git memungkinkan banyak pengembang untuk bekerja bersama secara efisien, menyimpan riwayat perubahan, serta memungkinkan rollback ke versi sebelumnya jika terjadi kesalahan.
+
+ Fitur utama Git:
+- Distributed Version Control → Tidak bergantung pada satu server pusat, setiap pengembang memiliki salinan lengkap dari repositori.
+- Branching dan Merging → Bisa membuat cabang (branch) untuk mengembangkan fitur baru tanpa mengganggu kode utama, lalu menggabungkannya kembali (merge).
+- Tracking Perubahan → Setiap perubahan tercatat dengan detail (siapa yang mengubah, kapan, dan apa yang diubah).
+- Collaborative Work → Mudah digunakan dalam tim, terutama dengan platform seperti GitHub, GitLab, atau Bitbucket.
