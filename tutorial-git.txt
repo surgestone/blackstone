@@ -5,3 +5,15 @@ Git adalah sistem kontrol versi (version control system, VCS) yang digunakan unt
 - Branching dan Merging → Bisa membuat cabang (branch) untuk mengembangkan fitur baru tanpa mengganggu kode utama, lalu menggabungkannya kembali (merge).
 - Tracking Perubahan → Setiap perubahan tercatat dengan detail (siapa yang mengubah, kapan, dan apa yang diubah).
 - Collaborative Work → Mudah digunakan dalam tim, terutama dengan platform seperti GitHub, GitLab, atau Bitbucket.
+
+ Perintah Git Dasar:
+1. git init → Membuat repositori Git baru di folder proyek.
+2. git clone <url> → Mengunduh repositori dari server (misalnya GitHub).
+3. git status → Melihat status perubahan dalam repositori.
+4. git add <file> → Menambahkan perubahan ke staging area.
+5. git commit -m "pesan commit" → Menyimpan perubahan ke dalam riwayat versi.
+6. git push → Mengunggah perubahan ke repositori remote.
+7. git pull → Mengambil perubahan terbaru dari repositori remote.
+8. git branch → Melihat atau membuat cabang baru.
+9. git merge <branch> → Menggabungkan cabang ke dalam cabang utama.
+10. git log → Melihat riwayat commit.
